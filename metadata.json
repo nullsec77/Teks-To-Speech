@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Text to Speech Generator",
+  "description": "A powerful Text-to-Speech application powered by Google's Gemini API. Generate natural, human-like voice from text with advanced controls for voice identity, emotion, and prosody. Save your API key and listen to your generation history.",
+  "requestFramePermissions": []
+}
